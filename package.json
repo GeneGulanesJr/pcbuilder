@@ -2,7 +2,7 @@
   "name": "custom-build-pc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://genegulanesjr.github.io/pcbuilder/",
+  "homepage": "*",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
